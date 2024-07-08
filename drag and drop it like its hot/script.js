@@ -32,10 +32,10 @@ function stopElementDrag() {
 }
 }
 
-dragElement(document.getElementById('plant1'));
-dragElement(document.getElementById('plant2'));
-dragElement(document.getElementById('plant3'));
-dragElement(document.getElementById('plant4'));
+dragElement(document.getElementById('cherry'));
+dragElement(document.getElementById('chocolate-syrup'));
+dragElement(document.getElementById('caramel-syrup'));
+dragElement(document.getElementById('sprinkles'));
 dragElement(document.getElementById('plant5'));
 dragElement(document.getElementById('plant6'));
 dragElement(document.getElementById('plant7'));
