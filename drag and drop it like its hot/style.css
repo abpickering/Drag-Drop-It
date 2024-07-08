@@ -1,0 +1,17 @@
+h1 {
+    color:azure;
+    text-align: center;
+}
+body {
+    font-family: helvetica, arial, sans-serif;
+}
+
+#right-container {
+    background-color: #eee;
+    width: 15%;
+    right: 0px;
+    top: 0px;
+    position: absolute;
+    height: 100%;
+	padding: 10px;
+}
